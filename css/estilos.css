@@ -138,3 +138,22 @@ body, html {
 .link{
   margin-top: 1rem;
 }
+
+.home-footer {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  color: rgb(70, 70, 70);
+  margin: 7px;
+  border-radius: 7px;
+  background: #f5b4be;
+  padding: 7px 10px;
+  font-size: calc(10px + 0.2vw); /* text-shadow: 0 0 7px #000; */
+  opacity: 1;
+}
+.home-footer .textwidget {
+  font-size: inherit;
+}
+.home-footer p {
+  margin: 0;
+}
