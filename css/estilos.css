@@ -149,7 +149,7 @@ body, html {
   background: #f5b4be;
   padding: 7px 10px;
   font-size: calc(10px + 0.2vw); /* text-shadow: 0 0 7px #000; */
-  opacity: 1;
+  opacity: 1.5;
 }
 .home-footer .textwidget {
   font-size: inherit;
