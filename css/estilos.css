@@ -16,7 +16,7 @@ body, html {
     background-size: cover;
     background-repeat: no-repeat;
     overflow: hidden;
-  }
+  }   
 
 .container {
   width: 90%;
@@ -41,10 +41,10 @@ body, html {
 .hero::before {
   content: "";
   position: absolute;
-  top: 0;
-  left: 0;
+  top: 0; 
+  /* left: 0; */
   width: 100%;
-  height: 100%;
+  height: 10%;
 }
 
 .nav {
