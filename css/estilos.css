@@ -139,7 +139,7 @@ body, html {
   margin-top: 1rem;
 }
 
-.home-footer {
+.home {
   position: fixed;
   bottom: 0;
   right: 0;
@@ -148,12 +148,12 @@ body, html {
   border-radius: 7px;
   background: #f5b4be;
   padding: 7px 10px;
-  font-size: calc(10px + 0.2vw); /* text-shadow: 0 0 7px #000; */
+  font-size: calc(10px + 0.2vw); text-shadow: 0 0 7px #000;
   opacity: 1.5;
 }
-.home-footer .textwidget {
+.home .textwidget {
   font-size: inherit;
 }
-.home-footer p {
+.home p {
   margin: 0;
 }
