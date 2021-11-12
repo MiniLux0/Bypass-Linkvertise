@@ -1,6 +1,6 @@
 # Bypass-Linkvertise
 ```py
-  Jess-Lux
+Jess-Lux
 -------------
 Easy webtool to bypass ad links
 ```
